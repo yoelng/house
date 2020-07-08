@@ -1,0 +1,26 @@
+nav{
+    background-color: darkblue;
+}
+a{
+    padding-left: 180px;
+}
+h1{
+    color: gold;
+}
+#real{
+    background-image: url(img/house.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+h2{
+    padding-top: 150px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+#par{
+    color:orange;
+}
+#black{
+    color: black;
+}
