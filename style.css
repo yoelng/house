@@ -24,3 +24,29 @@ h2{
 #black{
     color: black;
 }
+#pic{
+    width: 250px;
+}
+h4{
+    color: green;
+}
+#lol{
+    width: 100px;
+}
+#lolo{
+    width: 340px;
+    height: 16vh;
+}
+#agent{
+    width: 100px;
+    border-radius: 50%;
+}
+#foot{
+    background-color: indigo;
+}
+#feet{
+    color: white;
+}
+#bb{
+    color: blue;
+}
