@@ -23,6 +23,7 @@ h2{
 }
 #black{
     color: black;
+    font-family: 'Rye', cursive;
 }
 #pic{
     width: 250px;
@@ -59,4 +60,7 @@ h4{
 }
 img{
     width: 1600px;
+}
+#log{
+    color: darkblue;
 }
