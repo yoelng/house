@@ -50,3 +50,10 @@ h4{
 #bb{
     color: blue;
 }
+#photo{
+    width: 500px;
+    border-radius: 15%;
+}
+#bod{
+    background-color: cyan;
+}
